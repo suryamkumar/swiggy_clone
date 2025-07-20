@@ -27,7 +27,7 @@ This project demonstrates clean architectural practices, robust state management
 
 | Cart Page | Profile Page |
 |-----------|--------------|
-| ![Top Restaunrants To Explore UP Scroll](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/forth.jpeg) | ![Top Restaunrants To Explore Down Scroll](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/fifth.jpeg) |
+| ![Top Restaunrants To Explore UP Scroll](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/fourth.jpeg) | ![Top Restaunrants To Explore Down Scroll](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/fifth.jpeg) |
 
 > 📂 Place your screenshots inside a folder named `/screenshots` in the root of the repo.
 

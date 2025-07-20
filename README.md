@@ -23,11 +23,11 @@ This project demonstrates clean architectural practices, robust state management
 
 | Home Page | Restaurant List | Product Detail |
 |-----------|------------------|----------------|
-| ![Home](screenshots/screen1.png) | ![99 Store](screenshots/screen2.png) | ![Top Rated Near You](screenshots/screen3.png) |
+| ![Home](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/first.jpeg) | ![99 Store](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/second.jpeg) | ![Top Rated Near You](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/third.jpeg) |
 
 | Cart Page | Profile Page |
 |-----------|--------------|
-| ![Top Restaunrants To Explore UP Scroll](screenshots/screen4.png) | ![Top Restaunrants To Explore Down Scroll](screenshots/screen5.png) |
+| ![Top Restaunrants To Explore UP Scroll](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/forth.jpeg) | ![Top Restaunrants To Explore Down Scroll](https://github.com/suryamkumar/swiggy_clone/blob/main/ScreenShots/fifth.jpeg) |
 
 > 📂 Place your screenshots inside a folder named `/screenshots` in the root of the repo.
 
